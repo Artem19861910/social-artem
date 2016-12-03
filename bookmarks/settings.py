@@ -78,17 +78,17 @@ ABSOLUTE_URL_OVERRIDES = {
 }
 
 # Facebook authorization
-SOCIAL_AUTH_FACEBOOK_KEY = '923307174464836' # Facebook App ID
-SOCIAL_AUTH_FACEBOOK_SECRET = '8e92026e8adf10447f37e6654925d624' # FB App Secret
+SOCIAL_AUTH_FACEBOOK_KEY = 'ХХХХХХХХХХХХХХХХХХХ' # Facebook App ID
+SOCIAL_AUTH_FACEBOOK_SECRET = 'ХХХХХХХХХХХХХХХХХХХХХХХ' # FB App Secret
 SOCIAL_AUTH_FACEBOOK_SCOPE = ['email']
 
 # Twitter Authorization
-SOCIAL_AUTH_TWITTER_KEY = 'LwIC2X3kY9scSdu9gzWeyuSxi'
-SOCIAL_AUTH_TWITTER_SECRET = '7rTNJseI1bFXBRoQFdvZLfxcXdT9NbhczIzDTgRcDHbeUaB3v6'
+SOCIAL_AUTH_TWITTER_KEY = 'ХХХХХХХХХХХХХХХХХХХ'
+SOCIAL_AUTH_TWITTER_SECRET = 'ХХХХХХХХХХХХХХХХХХХ'
 
 # Google Authorization
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '881717071462-r9vr88tvl7klovd7tbqa9tj23pvv472m.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'noOzrEavaJRhi4fTx4dbEy4E'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = 'ХХХХХХХХХХХХХХХХХХХ.apps.googleusercontent.com'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'ХХХХХХХХХХХХХХХХХХХ'
 
 ROOT_URLCONF = 'bookmarks.urls'
 
